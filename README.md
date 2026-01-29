@@ -3,6 +3,7 @@
 
 <!--<p align="center"> <a href="https://app.daily.dev/hamimsiddiq"><img src="https://api.daily.dev/devcards/YOUR_CARD.png" width="400" alt="Hamim Siddiq's Dev Card"/></a> </p>-->
 <div align="center">
+  
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ3bXBxYzN2dnIxeWRzNzNscHgyMm9jbmRqZDhiMThuYnhpc3d6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="Hamim Siddiq" />
 </div>
 
@@ -22,13 +23,16 @@
 ⚡ Fun fact: I love learning by building real projects 🚀
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/hamim-siddik-6a904b3a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamim-siddik-6a904b3a9)
 [![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white)](https://github.com/hamimsiddiq007)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamimsiddiq915@gmail.com)
 
 # 👀 GitHub Visitors
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hamimsiddiq&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <div align="left">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 </p>
 
 # 🗞️ Blog posts
@@ -51,32 +55,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamimsiddiq007&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hamimsiddiq007&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hamimsiddiq007&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimsiddiq007&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hamimsiddiq007&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💹 GitHub Contribution Graph
 [![Hamim's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamimsiddiq007&theme=merko)](https://github.com/hamimsiddiq007)
-
-## 👾 Pacman Contribution Graph
-<picture>
-  <!-- Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph-dark.svg">
-  <!-- Light Mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph.svg">
-  <!-- Fallback -->
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph.svg" />
-</picture>
-
-## 🐍 Snake Contribution Graph
-<picture>
-  <!-- Dark Mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake-dark.svg" />
-  <!-- Light Mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake.svg" />
-  <!-- Fallback -->
-  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake.svg" />
-</picture>
