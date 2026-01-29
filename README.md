@@ -27,7 +27,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamimsiddiq915@gmail.com)
 
 # 👀 GitHub Visitors
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=hamimsiddiq&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
