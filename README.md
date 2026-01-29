@@ -17,7 +17,7 @@
 <br><br>
 📫 How to reach me: hamimsiddiq915@gmail.com  
 <br><br>
-📄 Know about my experiences: hamim-siddik-6a904b3a9
+📄 Know about my experiences: linkedin.com/in/hamim-siddik-6a904b3a9
 <br><br>
 ⚡ Fun fact: I love learning by building real projects 🚀
 
