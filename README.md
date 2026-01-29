@@ -60,16 +60,22 @@
 ## 💹 GitHub Contribution Graph
 [![Hamim's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamimsiddiq007&theme=merko)](https://github.com/hamimsiddiq007)
 
-## 👾 Pacman On Contributions
+## 👾 Pacman Contribution Graph
 <picture>
+  <!-- Dark Mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph-dark.svg">
+  <!-- Light Mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph.svg">
+  <!-- Fallback -->
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph.svg" />
 </picture>
 
-## 🐍 Snake On Contributions
+## 🐍 Snake Contribution Graph
 <picture>
+  <!-- Dark Mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake-dark.svg" />
+  <!-- Light Mode -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake.svg" />
+  <!-- Fallback -->
+  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake.svg" />
 </picture>
