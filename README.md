@@ -1,74 +1,75 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#38bdf8;">Hamim Siddiq</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Hamim Siddiq</h1>
+<h3 align="center">MERN Stack Developer || Building Scalable Web Apps || Open to Collaborations</h3>
 
-<h3 align="center">
-  🚀 MERN Stack Developer | Full Stack Engineer | Tech Explorer
-</h3>
+<!--<p align="center"> <a href="https://app.daily.dev/hamimsiddiq"><img src="https://api.daily.dev/devcards/YOUR_CARD.png" width="400" alt="Hamim Siddiq's Dev Card"/></a> </p>-->
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ3bXBxYzN2dnIxeWRzNzNscHgyMm9jbmRqZDhiMThuYnhpc3d6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="Hamim Siddiq" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=24&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Modern+Web+Apps;React+%7C+Node+%7C+MongoDB;Always+Learning+%26+Growing" />
-</p>
+# 💫 About Me:
+🔭 I’m currently working on full-stack MERN projects  
+<br><br>
+👨‍💻 All of my projects are available on my GitHub  
+<br><br>
+🌱 Currently improving **Backend, APIs, Authentication & System Design**  
+<br><br>
+💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**  
+<br><br>
+📫 How to reach me: *add-your-email-here*  
+<br><br>
+📄 Know about my experiences: *add-your-linkedin-here*  
+<br><br>
+⚡ Fun fact: I love learning by building real projects 🚀
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamimsiddiq&label=Profile%20Views&color=38bdf8&style=flat" />
-  <img src="https://img.shields.io/github/followers/hamimsiddiq?label=Followers&style=flat&color=38bdf8" />
-  <img src="https://img.shields.io/github/stars/hamimsiddiq?label=Stars&style=flat&color=38bdf8" />
-</p>
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/hamim-siddik-6a904b3a9)
+[![GitHub](https://img.shields.io/badge/GitHub-12100E?logo=github&logoColor=white)](https://github.com/hamimsiddiq007)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamimsiddiq915@gmail.com)
 
----
+# 👀 GitHub Visitors
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hamimsiddiq007.hamimsiddiq007&" />
+<br/>
 
-## 🧠 About Me
-- 💻 MERN Stack Developer focused on **scalable & performant** web apps  
-- 🌱 Deep diving into **Backend, APIs, Authentication & System Design**  
-- 🧩 Love solving real-world problems with clean code  
-- ⚡ Believer in *learning by building*
+# 🗞️ Blog posts
+<!-- BLOG-POST-LIST:START -->
+- Coming soon 🚧
+<!-- BLOG-POST-LIST:END -->
 
----
+# 💻 Tech Stack:
+<!-- 🔥 FULL TECH STACK KEPT EXACTLY THE SAME 🔥 -->
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🛠️ Tech Stack
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hamimsiddiq007&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hamimsiddiq007&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimsiddiq007&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ⚙️ MERN
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=3C873A" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hamimsiddiq007&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
+## 💹 GitHub Contribution Graph
+[![Hamim's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamimsiddiq007&theme=merko)](https://github.com/hamimsiddiq007)
 
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-0F172A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-</p>
+## 👾 Pacman On Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/linkedin.com/in/hamim-siddik-6a904b3a9">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:hamimsiddiq915@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
-
----
-
-### 🧩 Philosophy
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
----
-
-⭐ **If you like my work, don’t forget to star my repositories!**
+## 🐍 Snake On Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hamimsiddiq007/hamimsiddiq007/output/github-snake.svg" />
+</picture>
