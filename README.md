@@ -17,7 +17,7 @@
 <br><br>
 📫 How to reach me: hamimsiddiq915@gmail.com  
 <br><br>
-📄 Know about my experiences: linkedin.com/in/hamim-siddik-6a904b3a9
+📄 Know about my experiences: https://www.linkedin.com/in/hamim-siddik-6a904b3a9
 <br><br>
 ⚡ Fun fact: I love learning by building real projects 🚀
 
@@ -27,8 +27,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamimsiddiq915@gmail.com)
 
 # 👀 GitHub Visitors
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hamimsiddiq007.hamimsiddiq007&" />
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamimsiddiq&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 # 🗞️ Blog posts
 <!-- BLOG-POST-LIST:START -->
