@@ -15,9 +15,9 @@
 <br><br>
 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**  
 <br><br>
-📫 How to reach me: *add-your-email-here*  
+📫 How to reach me: hamimsiddiq915@gmail.com  
 <br><br>
-📄 Know about my experiences: *add-your-linkedin-here*  
+📄 Know about my experiences: hamim-siddik-6a904b3a9
 <br><br>
 ⚡ Fun fact: I love learning by building real projects 🚀
 
