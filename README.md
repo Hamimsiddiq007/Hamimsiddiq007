@@ -54,12 +54,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hamimsiddiq007&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hamimsiddiq007&theme=merko&hide_border=false)<br/>
+## 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamimsiddiq007&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=hamimsiddiq007&theme=merko&show_icons=true)
 
-## 💹 GitHub Contribution Graph
-[![Hamim's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamimsiddiq007&theme=merko)](https://github.com/hamimsiddiq007)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimsiddiq007&layout=compact&theme=merko)
+
+![](https://streak-stats.demolab.com?user=hamimsiddiq007&theme=merko)
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamimsiddiq007&theme=merko" alt="GitHub Activity Graph" />
+</p>
