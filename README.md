@@ -58,7 +58,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=hamimsiddiq007&theme=merko&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamimsiddiq007&layout=compact&theme=merko)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamimsiddiq007&layout=compact&theme=radical" alt="Top Languages" />
 
 ![](https://streak-stats.demolab.com?user=hamimsiddiq007&theme=merko)
 
