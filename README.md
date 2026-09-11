@@ -56,11 +56,14 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hamimsiddiq007&theme=merko&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hamimsiddiq007&show_icons=true&theme=github_dark" align="center" /> &nbsp &nbsp
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamimsiddiq007&layout=compact&theme=github_dark" align="center" />
+</p>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamimsiddiq007&layout=compact&theme=radical" alt="Top Languages" />
-
-![](https://streak-stats.demolab.com?user=hamimsiddiq007&theme=merko)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamimsiddiq007&theme=github_dark" alt="GitHub Stats">
+</p>
 
 ## 📈 GitHub Activity Graph
 
