@@ -64,9 +64,3 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=hamimsiddiq007&theme=github_dark" alt="GitHub Stats">
 </p>
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamimsiddiq007&theme=merko" alt="GitHub Activity Graph" />
-</p>
